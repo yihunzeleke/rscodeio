@@ -31,6 +31,11 @@
   color: rgb(133, 133, 133);
 }
 
+/*  Yihun Zeleke */ 
+.ace_scroller {
+  font-variant-ligatures: discretionary-ligatures;
+  font-feature-settings: "dlig" 1;
+}
 .ace_print-margin {
   width: 2px;
   box-shadow: 1px 0 0 0 rgb(90, 90, 90) inset;
